@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Sanjay Gopal</h1>
-<h3 align="center">Senior Software Engineer | Backend Specialist | Cloud Enthusiast | Full-Stack Developer</h3>
+<h3 align="center">Senior Software Engineer | Backend Specialist | Cloud Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjay-gopal-293148137/" target="_blank">
@@ -15,13 +15,13 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently building scalable backend systems and data pipelines using **Python, Java, Spring Boot, and AWS**  
-- 🌐 Proficient in cloud platforms: **AWS**, **Azure**  
-- 🧠 Passionate about **Distributed Systems**, **Microservices**, and **CI/CD**  
-- 💬 Ask me about **FastAPI, Django REST, SQL/NoSQL DBs, Terraform, Kafka, OpenShift, and Databricks**  
-- 🚀 Exploring **RPA**, **AI/ML**, and **Prompt Engineering**  
-- 🗃️ I write clean, testable code with strong OOP principles and performance in mind
-
+- 🧠 7+ years of experience in **backend development** and **cloud engineering**
+- 🔁 Building scalable APIs with **Python, FastAPI, Django REST Framework**, and **Java Spring Boot**
+- ☁️ Proficient in **AWS** (Lambda, S3, Glue, Step Functions, EC2, IAM, Elastic Container Registry, Glue) & **Azure**
+- 🔍 Experience with **asynchronous processing**, **microservices**, and **distributed systems**
+- 🛠️ CI/CD pipelines using **GitHub Actions, Jenkins, Terraform, Harness**
+- 📦 Strong experience in databases: **PostgreSQL, MySQL, MongoDB, DynamoDB**
+- 🧪 Writes **clean, testable, and well-documented code** using unit & integration tests
 ---
 
 ### 🔧 Languages & Tools
